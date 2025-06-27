@@ -23,7 +23,7 @@ Projeto básico em Java com MySQL e GitHub para prática do grupo de estudos dur
 
 ## Criação das Branchs
 - Branch dev ✅
-- Branch feature/cadastro-livros
+- Branch feature/cadastro-livros ✅
 - Branch feature/cadastro-usuarios
 - Branch feature/emprestimos
 - Branch feature/interface
