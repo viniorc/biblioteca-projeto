@@ -28,3 +28,4 @@ Projeto básico em Java com MySQL e GitHub para prática do grupo de estudos dur
 - Branch feature/emprestimos ✅
 - Branch feature/interface
 - branch feature/relatorios ✅
+- Branch hotfix ✅
