@@ -26,5 +26,5 @@ Projeto básico em Java com MySQL e GitHub para prática do grupo de estudos dur
 - Branch feature/cadastro-livros ✅
 - Branch feature/cadastro-usuarios
 - Branch feature/emprestimos ✅
-- Branch feature/interface
-- branch feature/relatorios
+- Branch feature/interface ✅
+- branch feature/relatorios 
