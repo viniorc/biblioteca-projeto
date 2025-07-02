@@ -20,3 +20,4 @@ Projeto básico em Java com MySQL e GitHub para prática do grupo de estudos dur
 - João Gabriel
 - Vinícius
 - Willian
+- qualquer coisa
