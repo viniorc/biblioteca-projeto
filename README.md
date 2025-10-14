@@ -21,3 +21,5 @@ Projeto básico em Java com MySQL e GitHub para prática do grupo de estudos dur
 - Vinícius
 - Willian
 - qualquer coisa
+
+O Arthur vai conseguir a vaga esse merda e vai pagar chilito para nos
